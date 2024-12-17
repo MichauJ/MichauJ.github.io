@@ -1,2 +1,9 @@
 # MichauJ.github.io
- My github webpage
+ Data Scientist in training.
+
+ ### Education
+...
+ ### Work experience
+ ...
+ ### My projects
+ ...
